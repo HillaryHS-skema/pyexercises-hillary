@@ -193,3 +193,26 @@ def to_uppercase(text):
 ```
 
 What method converts a string to uppercase?
+
+---
+## 2026-10-27 18:04, in .
+
+**Me:** how to use elif
+
+**Tutor:**
+
+The concept is chaining conditions with elif to test more than one alternative.
+
+```python
+def decide_weather(temp):
+    if temp > 30:
+        return "hot"
+    elif temp > 20:
+        return "warm"
+    elif temp > 10:
+        return "cool"
+    else:
+        return "cold"
+```
+
+What argument does the first elif line receive?
