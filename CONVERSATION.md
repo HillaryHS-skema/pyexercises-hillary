@@ -156,3 +156,23 @@ for num in numbers:
 ```
 
 What is the keyword that starts a for loop in Python?
+
+---
+## 2026-10-27 17:27, in .
+
+**Me:** what is elif
+
+**Tutor:**
+
+A conditional statement that checks another condition only if the previous ones were false.
+
+```python
+def grade(score):
+    if score >= 90:
+        return "A"
+    # TODO: add an elif here for scores between 80 and 89
+    else:
+        return "Needs improvement"
+```
+
+What keyword comes after the condition in an `elif` line?
