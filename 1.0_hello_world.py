@@ -23,7 +23,7 @@ DELIVERABLE
 """
 
 # 1. In: a string of my name
-# 2. Process: a for lop printing my name 5 time
+# 2. Process: a for loop printing my name 5 time
 # 3. Out: my name is printed 5 time
 # 4. My message, and why: wrote a python rule to print my name 5 times using printer
 
