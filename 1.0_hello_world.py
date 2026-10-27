@@ -30,3 +30,8 @@ DELIVERABLE
 
 # Your code below
 print("Hello, world!")
+print("Hello")
+print("Nihao")
+print("Salam Kenal")
+print("Halo")
+print("Bonjour")
