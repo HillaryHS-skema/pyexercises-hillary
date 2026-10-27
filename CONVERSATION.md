@@ -58,3 +58,20 @@ print(result)
 ```
 
 What function do you use to display the result?
+
+---
+## 2026-10-27 15:30, in .
+
+**Me:** how to ask the user for information or get data from them?
+
+**Tutor:**
+
+Getting data from the user is done with the `input()` function.
+
+```python
+# TODO: replace the string with your question
+user_name = input("What is your name? ")
+print("Hello,", user_name)
+```
+
+What does the `input()` function return?
