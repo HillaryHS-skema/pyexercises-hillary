@@ -25,16 +25,16 @@ DELIVERABLE
 # 1. In: a string of my name
 # 2. Process: a for lop printing my name 5 time
 # 3. Out: my name is printed 5 time
-# 4. My message, and why: wrote a python fule to print my name 5 times using printer
+# 4. My message, and why: wrote a python rule to print my name 5 times using printer
 
 
 # Your code below
-print("Hello, world!")
-print("1. Hello")
-print("2. Hello")
-print("3. Hello")
-print("4. Hello")
-print("5. Hello")
+print("It is nice to meet you!")
+print("1. Bonjour")
+print("2. Bonjour")
+print("3. Bonjour")
+print("4. Bonjour")
+print("5. Bonjour")
 
 for i in range(0,5):
-    print("Hello")
+    print("Bonjour")
