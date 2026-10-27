@@ -37,3 +37,24 @@ for name in campaigns:
 ```
 
 Which built-in function converts a string to uppercase?
+
+---
+## 2026-10-27 15:16, in .
+
+**Me:** How do you print the result of the nuliplication of two numbers
+
+**Tutor:**
+
+Printing the result of multiplying two numbers.
+
+Use the `print()` function with the multiplication operator `*`.
+
+```python
+# TODO: replace a and b with your two numbers
+a = 2
+b = 3
+result = a * b
+print(result)
+```
+
+What function do you use to display the result?
