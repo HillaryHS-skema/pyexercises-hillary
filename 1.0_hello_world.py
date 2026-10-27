@@ -30,8 +30,8 @@ DELIVERABLE
 
 # Your code below
 print("Hello, world!")
-print("Hello")
-print("Nihao")
-print("Salam Kenal")
-print("Halo")
-print("Bonjour")
+print("1. Hello")
+print("2. Hello")
+print("3. Hello")
+print("4. Hello")
+print("5. Hello")
