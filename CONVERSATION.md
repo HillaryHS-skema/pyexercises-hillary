@@ -176,3 +176,20 @@ def grade(score):
 ```
 
 What keyword comes after the condition in an `elif` line?
+
+---
+## 2026-10-27 17:54, in .
+
+**Me:** how to convert to uppercase
+
+**Tutor:**
+
+String method to change all letters to uppercase.
+
+```python
+def to_uppercase(text):
+    # TODO: return the text in uppercase
+    pass
+```
+
+What method converts a string to uppercase?
