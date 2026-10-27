@@ -216,3 +216,22 @@ def decide_weather(temp):
 ```
 
 What argument does the first elif line receive?
+
+---
+## 2026-10-27 18:14, in .
+
+**Me:** How to sort from largest to smallest
+
+**Tutor:**
+
+Sorting from largest to smallest is called descending order.
+
+Use the built-in `sorted()` function and set `reverse=True`.
+
+```python
+# TODO: replace the list with your own data
+data = [3, 1, 4, 1, 5, 9, 2]
+sorted_data = sorted(data, reverse=True)
+```
+
+What argument tells `sorted()` to go from largest to smallest?
