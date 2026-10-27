@@ -17,3 +17,23 @@ print("Your message here")
 ```
 
 What argument does the `print()` function take?
+
+---
+## 2026-10-27 13:43, in .
+
+**Me:** How to write a loop
+
+**Tutor:**
+
+A loop repeats a block of code while a condition is true.
+
+```python
+# Loop over a list of fake campaign names
+campaigns = ["summer_sale", "winter_promo", "black_friday"]
+
+for name in campaigns:
+    # TODO: print each name in uppercase
+    pass
+```
+
+Which built-in function converts a string to uppercase?
