@@ -136,3 +136,23 @@ sample = {"name": "alpha", "cost": 120, "revenue": 300}
 clean = remove_field(sample, "cost")
 # What is the name of the dictionary method that removes a key?
 ```
+
+---
+## 2026-10-27 17:08, in .
+
+**Me:** How to use a for loop
+
+**Tutor:**
+
+A for loop iterates over a sequence (list, string, etc.) and runs a block of code for each item.
+
+```python
+# Iterate over a list of numbers
+numbers = [2, 4, 6, 8]
+
+for num in numbers:
+    # TODO: print the square of each number
+    pass
+```
+
+What is the keyword that starts a for loop in Python?
