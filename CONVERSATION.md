@@ -450,3 +450,23 @@ except ValueError as e:
 ```
 
 What is the name of the exception you would catch if you tried to split a string with no delimiter?
+
+---
+## 2026-11-17 18:09, in .
+
+**Me:** how to use strip
+
+**Tutor:**
+
+String cleaning with strip.
+
+`strip()` removes leading and trailing whitespace (spaces, tabs, newlines) from a string.
+
+```python
+# TODO: replace '  hello  ' with the cleaned version
+text = '  hello  '
+cleaned = text.strip()
+print(cleaned)  # prints hello
+```
+
+What does `strip()` remove by default?
