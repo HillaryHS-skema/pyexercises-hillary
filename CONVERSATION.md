@@ -292,3 +292,23 @@ else:
 ```
 
 Which keyword must come right after the first `if` block to introduce the next condition?
+
+---
+## 2026-11-17 13:36, in .
+
+**Me:** what is with open
+
+**Tutor:**
+
+Opening a file safely.
+
+The `with open(...)` statement opens a file and guarantees it will be closed after the block runs, even if an error occurs.
+
+```python
+# Example: read a small CSV file
+with open("toy_data.csv", "r") as f:
+    for line in f:
+        print(line.strip())
+```
+
+What mode letter opens the file for reading only?
