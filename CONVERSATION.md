@@ -270,3 +270,25 @@ def calculate_area(length, width):
 ```
 
 What does the `def` keyword start?
+
+---
+## 2026-11-17 13:24, in .
+
+**Me:** what is elif
+
+**Tutor:**
+
+`elif` is a keyword that lets you add another condition to an `if` statement when the first one is false.
+
+```python
+# TODO: decide which condition to check first
+if temperature > 30:
+    print("It's hot")
+# TODO: add an elif that checks if temperature is below 10
+elif temperature < 10:
+    print("It's cold")
+else:
+    print("It's mild")
+```
+
+Which keyword must come right after the first `if` block to introduce the next condition?
