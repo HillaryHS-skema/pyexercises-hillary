@@ -312,3 +312,31 @@ with open("toy_data.csv", "r") as f:
 ```
 
 What mode letter opens the file for reading only?
+
+---
+## 2026-11-17 15:16, in .
+
+**Me:** how to read excel file in python
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-11-17 15:16, in .
+
+**Me:** how to open file
+
+**Tutor:**
+
+Opening a file in Python is done with the built-in `open()` function.
+
+```python
+# Open a file for reading
+file = open("data.csv", "r")  # "r" means read mode
+
+# Always close the file when done
+file.close()
+```
+
+What is the second argument ("r") called in the `open()` function?
