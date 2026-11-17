@@ -235,3 +235,20 @@ sorted_data = sorted(data, reverse=True)
 ```
 
 What argument tells `sorted()` to go from largest to smallest?
+
+---
+## 2026-11-17 12:55, in .
+
+**Me:** how to use def
+
+**Tutor:**
+
+Defining a function starts with the keyword def, followed by the function name and parentheses.
+
+```python
+def greet(name):
+    # TODO: write code that prints a greeting using the variable 'name'
+    pass
+```
+
+What is the correct order of the three parts of a function definition?
