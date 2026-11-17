@@ -252,3 +252,21 @@ def greet(name):
 ```
 
 What is the correct order of the three parts of a function definition?
+
+---
+## 2026-11-17 13:03, in .
+
+**Me:** how to use def
+
+**Tutor:**
+
+Defining a reusable block of code.
+
+```python
+# Define a function named calculate_area
+def calculate_area(length, width):
+    # TODO: multiply length by width and return the result
+    pass
+```
+
+What does the `def` keyword start?
