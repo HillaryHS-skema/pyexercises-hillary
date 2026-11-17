@@ -362,3 +362,23 @@ print(cleaned)  # Should print "hello world"
 ```
 
 What does the `strip()` method remove from a string?
+
+---
+## 2026-11-17 17:41, in .
+
+**Me:** How to use for
+
+**Tutor:**
+
+Looping over a sequence with a `for` loop.
+
+```python
+# TODO: replace the list with your data
+items = ["alpha", "beta", "gamma"]
+
+for item in items:
+    # TODO: write the body that uses `item`
+    print(item)
+```
+
+What is the name of the variable that holds the current element inside the loop?
