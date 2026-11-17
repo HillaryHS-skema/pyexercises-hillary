@@ -340,3 +340,25 @@ file.close()
 ```
 
 What is the second argument ("r") called in the `open()` function?
+
+---
+## 2026-11-17 17:31, in .
+
+**Me:** how to remove spaces
+
+**Tutor:**
+
+Removing spaces from a string is called **stripping whitespace**.
+
+```python
+def remove_spaces(text):
+    # TODO: return the text with leading and trailing spaces removed
+    return text.strip()
+
+# Example usage:
+sample = "  hello world  "
+cleaned = remove_spaces(sample)
+print(cleaned)  # Should print "hello world"
+```
+
+What does the `strip()` method remove from a string?
