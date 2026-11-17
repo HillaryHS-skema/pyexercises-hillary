@@ -429,3 +429,24 @@ permissions = {"read", "write", "execute"}
 ```
 
 Which set method adds a single element?
+
+---
+## 2026-11-17 18:01, in .
+
+**Me:** what is ValueError
+
+**Tutor:**
+
+A ValueError is raised when a function receives an argument of the right type but an inappropriate value.
+
+For example, trying to convert the string "hello" to an integer:
+
+```python
+# TODO: try to convert a non-numeric string to an integer
+try:
+    number = int("hello")
+except ValueError as e:
+    print("Caught a ValueError:", e)
+```
+
+What is the name of the exception you would catch if you tried to split a string with no delimiter?
